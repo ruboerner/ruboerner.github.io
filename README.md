@@ -9,7 +9,7 @@ Here you’ll find lecture notes, examples, and supporting code for university-l
 
 ## 📘 Lectures
 
-### [Potential Theory](https://github.com/ruboerner/Potentia_Theory)
+### [Potential Theory](https://github.com/ruboerner/Potential_Theory)
 Materials and notes on the mathematical foundations of potential theory, including:
 - Gravitational and magnetostatic potentials  
 - Harmonic functions and Laplace’s equation  
